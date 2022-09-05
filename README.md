@@ -1,6 +1,6 @@
 # Trabajo Fin  de Master (DATCOM-UGR, 2022)
-## Segmentación semántica de objetos celestes en imágenes astronómicas usando Deep Learning
-### José Miguel Ibáñez Mengual
+## Segmentación semántica de objetos celestes en imágenes astronómicas usando Deep Learning 
+#### (José Miguel Ibáñez Mengual)
 
 1. Dataset
 - [Galaxy Zoo](https://data.galaxyzoo.org/) 
