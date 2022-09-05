@@ -3,8 +3,12 @@
 ### José Miguel Ibáñez Mengual
 
 1. Dataset
-- Galaxy Zoo 
-- Tools 
-3. Segmentación supervisada
-4. Segmentación semi-supervisada
-5. Modelos
+- [Galaxy Zoo] (https://data.galaxyzoo.org/) 
+- [Tools] (https://github.com/jm-ibanez/TFM/tree/main/Dataset) 
+3. Supervised segmentation
+- Based on [Detectron2] (https://github.com/facebookresearch/detectron2)
+- Based on [Pytorch] (https://github.com/yassouali/pytorch-segmentation) 
+4. Semi-Supervised segmentation
+- [DMT] (https://github.com/voldemortX/DST-CBC/blob/master/README.md)
+- [USSS] (https://github.com/tarun005/USSS_ICCV19)
+5. Models
