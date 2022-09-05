@@ -1,6 +1,6 @@
-** Trabajo Fin  de Master. Máster Universitario Oficial en Ciencia de Datos e Ingeniería de Computadores **
+**Trabajo Fin  de Master. Máster Universitario Oficial en Ciencia de Datos e Ingeniería de Computadores**
 
-** José Miguel Ibáñez Mengual **
+**José Miguel Ibáñez Mengual**
 
 Curso 2021-2022
 
