@@ -1,6 +1,8 @@
 # Trabajo Fin  de Master (DATCOM-UGR, 2022)
 ## Segmentación semántica de objetos celestes en imágenes astronómicas usando Deep Learning 
-#### (José Miguel Ibáñez Mengual)
+##### -- José Miguel Ibáñez Mengual--
+
+This repo contains implementations of different semantic segmentation models for a Galaxy Zoo2 based image catalog.
 
 1. Dataset
 - [Galaxy Zoo](https://data.galaxyzoo.org/) 
