@@ -1,0 +1,1 @@
+python segment.py --basedir /opt/TFM/DATASETS/ --lr 0.001 --num-epochs 200 --batch-size 8 --savedir /opt/TFM/DATASET/out --datasets CS --num-samples 10 --alpha 0 --beta 0  --resnet resnet_50  --model drnet
