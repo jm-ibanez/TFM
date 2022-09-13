@@ -62,5 +62,9 @@ This repo contains implementations of different semantic segmentation models for
    - [USSS](https://github.com/tarun005/USSS_ICCV19)
 * Models
    - [DMT](https://tensorboard.dev/experiment/djB0GHj0QcOm5MhbFGoAXg/#scalars)
+   - [DMT30](https://tensorboard.dev/experiment/R2pgXVZdT0qP8rY80ALL2A/)
+   - [Mask-R-CNN](https://tensorboard.dev/experiment/306Io81YTaWAPlXPHNA8lQ/#scalars)
+   - [PointRend](https://tensorboard.dev/experiment/3NYYJU1YSW6azczapKWOgw/#scalars)
 * Document
 * [Demo1](https://colab.research.google.com/drive/1iHoWRDG8qbotYCECG88tN57eZcu6c8YY?usp=sharing)
+* [Demo2]
