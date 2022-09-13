@@ -67,4 +67,4 @@ This repo contains implementations of different semantic segmentation models for
    - [PointRend](https://tensorboard.dev/experiment/3NYYJU1YSW6azczapKWOgw/#scalars)
 * Document
 * [Demo1](https://colab.research.google.com/drive/1iHoWRDG8qbotYCECG88tN57eZcu6c8YY?usp=sharing)
-* [Demo2]
+* [Demo2](https://colab.research.google.com/drive/10xTXMp9nF-RClh5Y3yhDOAYkaGWfzf4k?usp=sharing)
